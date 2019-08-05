@@ -3,7 +3,8 @@
 Bar-Restaurant 
 
 ## adresse
-3845 Rue Saint-Denis, Montréal, QC H2W 2M1  
+[3845 Rue Saint-Denis, Montréal](https://www.openstreetmap.org/search?query=3845 Rue Saint-Denis, Montréal)  
+QC H2W 2M1  
 Métro Sherbrooke (ligne orange)  
 
 ## description
