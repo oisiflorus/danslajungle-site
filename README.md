@@ -8,9 +8,9 @@ Pour rédiger une fiche on commence par insérer en ligne 1 trois tirets, puis l
 Par exemple : 
 
 `
-  ---  
+  \---  
   nom: La fine équipe  
-  ---  
+  \---  
 `  
 
 Pour chaque fiche les données suivantes sont présentes :
