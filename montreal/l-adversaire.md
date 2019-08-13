@@ -1,5 +1,5 @@
 ---
-nom: L'adversaire
+nom: L'Adversaire
 type: pub ludique
 metro: Pie-IX ou Viau (ligne verte)
 par: @Ida
