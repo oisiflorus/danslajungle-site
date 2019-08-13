@@ -1,6 +1,7 @@
 ---
 nom: L'Adversaire
 type: pub ludique
+adresse: 4303, rue Sainte-Catherine Est
 description : Vaste choix de jeux de société, notamment coopératifs, personnel chaleureux, bonne sélection de boissons avec ou sans alcool.
 ---
 
