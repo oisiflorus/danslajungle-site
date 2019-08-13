@@ -4,7 +4,6 @@ type: pub ludique
 metro: Pie-IX ou Viau (ligne verte)
 adresse: 4303, rue Sainte-Catherine Est
 description : Vaste choix de jeux de société, notamment coopératifs, personnel chaleureux, bonne sélection de boissons avec ou sans alcool.
-par: @Ida
 ---
 
 ## description
