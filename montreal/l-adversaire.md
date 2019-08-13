@@ -1,5 +1,10 @@
 ---
-nom: truc
+nom: L'Adversaire
+type: pub ludique
+metro: Pie-IX ou Viau (ligne verte)
+par: @Ida
+adresse: 4303, rue Sainte-Catherine Est
+description : Vaste choix de jeux de société, notamment coopératifs, personnel chaleureux, bonne sélection de boissons avec ou sans alcool.
 ---
 
 ## description
