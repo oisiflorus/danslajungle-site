@@ -1,4 +1,5 @@
 ---
+nom: L'Adversaire
 description : Vaste choix de jeux de société, notamment coopératifs, personnel chaleureux, bonne sélection de boissons avec ou sans alcool.
 ---
 
