@@ -5,7 +5,7 @@ adresse: 3459, rue Ontario Est
 metro: Joliette (ligne verte)
 osm: 5111366525
 site: https://www.goantidote.com
-par: Idrissa
+par: i-da
 ---
 
 ## description
