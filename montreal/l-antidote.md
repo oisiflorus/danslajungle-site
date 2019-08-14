@@ -1,11 +1,14 @@
 ---
 nom: L'antidote
-type: restaurant Végan
+type: restaurant
 adresse: 3459, rue Ontario Est
 metro: Joliette (ligne verte)
 osm: 5111366525
 site: https://www.goantidote.com
 par: i-da
+tags:
+    - vegan
+    - végétarien
 ---
 
 ## description
