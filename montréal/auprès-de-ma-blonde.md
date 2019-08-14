@@ -4,6 +4,7 @@ type: bar-restaurant
 metro: Sherbrooke (ligne orange)
 adresse: 3845, rue Saint-Denis
 description: Une terrasse à l'arrière intimiste avec une décoration méditerranéenne, des options véganes et végétariennes. Bonne sélection de boissons (alcoolisées ou non), petits prix.
+site: http://aupresdemablonde.ca/fr_FR/
 tags:
     - vegan
     - végétarien
