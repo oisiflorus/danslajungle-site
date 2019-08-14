@@ -2,7 +2,7 @@
 
 ## Consulter les lieux prévenants
 
-- [Montréal](/montreal)
+- [Montréal](/montréal)
 
 ## Présentation
 
