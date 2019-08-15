@@ -5,7 +5,7 @@ metro: Charlevoix (ligne verte)
 adresse: 2727, rue Saint-Patrick
 osm: 5653967560
 site: https://mybicyclette.ca/fr/
-par: Idrissa
+par: i-da
 ---
 
 Location et réparation de vélos couplées à un petit café, en intérieur ou en terrasse.  
