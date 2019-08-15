@@ -22,6 +22,13 @@ Pour chaque fiche les données suivantes peuvent ou doivent être présentes :
 - site: site web du lieu
 - par: _pseudo github_ du rédacteur - par exemple : [@I-da](https://github.com/I-da)
 
+Pour la localisation du lieu :
+
+- Vérifier que le noeud et les métas associées (nom, adresse, type) correspondent bien au lieu donné.
+- Si besoin, il est possible de modifier les données directement sur [OpenStreetMap](https://www.openstreetmap.org) :
+  - En cas d'informations obsolètes ou manquantes.
+  - Si le lieu n'est pas référencé.
+
 ## Pour installer un environnement de développement en local
 
 Installer _jekyll_ et peut-être _ruby_ :  
