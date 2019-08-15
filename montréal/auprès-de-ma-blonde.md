@@ -15,4 +15,4 @@ Situé à proximité du quartier latin de Montréal, Auprès de ma blonde est un
 
 ![Aupres de ma blonde](./media/aupres-de-ma-blonde.jpg)
 
-![Aupres de ma blonde](./media/aupres-de-ma-blonde-2.jpg)
+
