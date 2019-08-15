@@ -3,6 +3,7 @@ nom: L'Adversaire
 type: pub ludique
 metro: Pie-IX ou Viau (ligne verte)
 adresse: 4303, rue Sainte-Catherine Est
+osm: 2503403736
 description : Vaste choix de jeux de société, notamment coopératifs, personnel chaleureux, bonne sélection de boissons avec ou sans alcool.
 par: i-da
 ---
