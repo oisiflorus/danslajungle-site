@@ -28,6 +28,8 @@ Pour la localisation du lieu :
 - Si besoin, il est possible de modifier les données directement sur [OpenStreetMap](https://www.openstreetmap.org) :
   - En cas d'informations obsolètes ou manquantes.
   - Si le lieu n'est pas référencé.
+  
+Localiser les lieux (ou ajouter des informations supplémentaires à propos des lieux) sur Open Street Map offre une meilleure visibilité de ces lieux et peut contribuer à leur référencement.
 
 ## Pour installer un environnement de développement en local
 
