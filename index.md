@@ -1,8 +1,10 @@
-# Page d'accueil
+---
+layout: page
+---
 
 ## Consulter les lieux prévenants
 
-- [Montréal](./montréal)
+- [Montréal](/montreal)
 
 ## Présentation
 

@@ -1,11 +1,13 @@
 title: Dans la jungle
 remote_theme: oisiflorus/maquillage-danslajungle
 
+collections:
+  montreal:
+    output: true
+
 plugins:
   - jekyll-remote-theme
-  - jekyll-readme-index
   - jekyll-github-metadata
-  - jekyll-paginate
   - jekyll-relative-links
   - jekyll-optional-front-matter
   - jekyll-default-layout
