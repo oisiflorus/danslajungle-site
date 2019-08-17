@@ -1,6 +1,13 @@
 title: Dans la jungle
 remote_theme: oisiflorus/maquillage-danslajungle
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: location
+
 collections:
   montreal:
     output: true
