@@ -1,5 +1,8 @@
 ---
 nom: L'antidote
+description: >
+Carte uniquement végane, large choix de boissons sans alcool, brunch le week-end.
+Prix corrects.
 type: restaurant
 adresse: 3459, rue Ontario Est
 metro: Joliette (ligne verte)
