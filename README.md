@@ -20,7 +20,7 @@ Pour chaque fiche les données suivantes peuvent ou doivent être présentes :
 - adresse: l'adresse du lieu au format `numéro, type Nom Orientation` par exemple : _1372, rue Notre-Dame Ouest_ (en respectant les majuscules ;) )
 - osm: numéro de noeud [OpenStreetMap](https://wiki.openstreetmap.org/wiki/FR:N%C5%93ud)
 - site: site web du lieu
-- par: _pseudo github_ du rédacteur - par exemple : [@I-da](https://github.com/I-da)
+- par: _pseudo github_ du rédacteur - par exemple : [I-da](https://github.com/I-da)
 
 Pour la localisation du lieu :
 
