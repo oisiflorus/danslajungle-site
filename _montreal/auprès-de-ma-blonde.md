@@ -12,7 +12,7 @@ tags:
 par: i-da
 ---
 
-Situé à proximité du quartier latin de Montréal, Auprès de ma blonde est une alternative calme face aux bars étudiants de la rue Saint-Denis. Parfait pour boire un verre, manger un simple mais délicieux repas, travailler, dans une ambiance paisible.
+Situé à proximité du quartier latin de Montréal, Auprès de ma Blonde est une alternative calme face aux bars étudiants de la rue Saint-Denis. Parfait pour boire un verre, manger un simple mais délicieux repas, travailler, dans une ambiance paisible.
 
 ![Aupres de ma blonde](./media/aupres-de-ma-blonde.jpg)
 
