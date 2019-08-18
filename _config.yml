@@ -12,6 +12,11 @@ collections:
   montreal:
     output: true
 
+collections:
+  a-propos-de-nous:
+    output: true
+
+
 plugins:
   - jekyll-remote-theme
   - jekyll-github-metadata
