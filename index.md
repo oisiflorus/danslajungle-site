@@ -12,3 +12,6 @@ layout: page
 - pour quoi ?
 
 ## Qui sommes-nous ?
+
+- [Oisiflorus](/a-propos-de-nous)
+
