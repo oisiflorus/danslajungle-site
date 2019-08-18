@@ -5,6 +5,7 @@ metro: Charlevoix (ligne verte)
 adresse: 2727, rue Saint-Patrick
 osm: 5653967560
 site: https://mybicyclette.ca/fr/
+description: Quand le vélo, la bonne humeur et le café se rencontrent. 
 par: i-da
 ---
 
