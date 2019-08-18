@@ -10,6 +10,7 @@ defaults:
 
 collections:
   montreal:
+  a-propos-de-nous:
     output: true
 
 plugins:
