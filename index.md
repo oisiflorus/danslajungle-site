@@ -13,5 +13,5 @@ layout: page
 
 ## Qui sommes-nous ?
 
-- [Oisiflorus](/a-propos-de-nous)
+- [Oisiflorus](/qui-sommes-nous.html)
 
