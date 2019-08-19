@@ -14,4 +14,5 @@ layout: page
 ## Qui sommes-nous ?
 
 - [Oisiflorus](/qui-sommes-nous.html)
+- [Nos valeurs](/nos-valeurs)
 
