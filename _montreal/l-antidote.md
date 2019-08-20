@@ -20,3 +20,5 @@ dans le quartier d'Hochelaga. Côté boissons, laissez vous tenter par un délic
 une bière locale.
 
 ![L'Antidode](./media/l-antidote.jpg)
+
+<i class="fas fa-seedling"></i>
