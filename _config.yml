@@ -18,3 +18,4 @@ plugins:
   - jekyll-relative-links
   - jekyll-default-layout
   - jekyll-titles-from-headings
+  - jekyll-fontawesome-svg
