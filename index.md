@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+{% include danslajungle.html %}
 
 ## Consulter les lieux prévenants
 
@@ -15,4 +16,3 @@ layout: page
 
 - [Oisiflorus](/qui-sommes-nous.html)
 - [Nos valeurs](/nos-valeurs)
-
