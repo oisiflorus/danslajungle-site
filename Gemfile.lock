@@ -12,6 +12,8 @@ GEM
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
     ffi (1.11.1)
+    font-awesome-sass (5.9.0)
+      sassc (>= 1.11)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
@@ -31,14 +33,12 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
+    jekyll-font-awesome-sass (0.1.1)
+      font-awesome-sass (>= 4)
+      jekyll (>= 2.5, < 4.0)
     jekyll-github-metadata (2.12.1)
       jekyll (~> 3.4)
       octokit (~> 4.0, != 4.4.0)
-    jekyll-optional-front-matter (0.3.0)
-      jekyll (~> 3.0)
-    jekyll-paginate (1.1.0)
-    jekyll-readme-index (0.2.0)
-      jekyll (~> 3.0)
     jekyll-relative-links (0.6.0)
       jekyll (~> 3.3)
     jekyll-remote-theme (0.4.0)
@@ -76,6 +76,8 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    sassc (2.1.0)
+      ffi (~> 1.9)
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
@@ -86,10 +88,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-default-layout
+  jekyll-font-awesome-sass
   jekyll-github-metadata
-  jekyll-optional-front-matter
-  jekyll-paginate
-  jekyll-readme-index
   jekyll-relative-links
   jekyll-remote-theme
   jekyll-titles-from-headings
