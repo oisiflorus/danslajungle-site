@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-{% include summary.md %}
+{% include summary.html %}

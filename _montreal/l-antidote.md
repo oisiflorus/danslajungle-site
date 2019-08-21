@@ -4,7 +4,7 @@ type: restaurant
 adresse: 3459, rue Ontario Est
 metro: Joliette (ligne verte)
 osm: 5111366525
-description: > 
+description: >
     Carte uniquement végane, large choix de boissons sans alcool, brunch le week-end.
     Prix corrects.
 site: https://www.goantidote.com
@@ -21,3 +21,5 @@ dans le quartier d'Hochelaga. Côté boissons, laissez vous tenter par un délic
 une bière locale.
 
 ![L'Antidode](./media/l-antidote.jpg)
+
+<i class="fas fa-seedling"></i>

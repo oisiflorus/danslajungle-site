@@ -1,6 +1,6 @@
 ---
 nom: Auprès de ma Blonde
-type: bar-restaurant
+type: bar-restaurant <i class="fa fa-glass-cheers"></i>
 metro: Sherbrooke (ligne orange)
 adresse: 3845, rue Saint-Denis
 osm: 6708072485
