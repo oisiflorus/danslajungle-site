@@ -4,7 +4,7 @@ layout: page
 
 ## Consulter les lieux prévenants
 
-- [Montréal](/montreal)
+{% include location-nav.html %}
 
 ## Présentation
 

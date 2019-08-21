@@ -11,6 +11,8 @@ defaults:
 collections:
   montreal:
     output: true
+  nantes:
+    output: true
 
 plugins:
   - jekyll-remote-theme
