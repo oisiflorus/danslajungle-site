@@ -5,7 +5,7 @@ metro:
 adresse: 
 osm: 
 description : >
-  à décritre.
+  à décricre.
 par: pntbr
 ---
 
