@@ -16,4 +16,3 @@ layout: page
 
 - [Oisiflorus](/qui-sommes-nous.html)
 - [Nos valeurs](/nos-valeurs)
-
