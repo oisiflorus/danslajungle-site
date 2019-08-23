@@ -1,6 +1,6 @@
 ---
 nom: L'Adversaire
-type: pub ludique
+type: pub ludique <i class="fa fa-glass-cheers"></i> <i class="fas fa-dice"></i>
 metro: Pie-IX ou Viau (ligne verte)
 adresse: 4303, rue Sainte-Catherine Est
 osm: 2503403736
