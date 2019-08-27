@@ -10,7 +10,7 @@ layout: page
 ## Présentation
 
 - [Pour qui ?](/pour-qui)
-- pour quoi ?
+- [Pour quoi ?](/pour-quoi)
 
 ## Qui sommes-nous ?
 
