@@ -1,6 +1,6 @@
 ---
 nom: L'Antidote
-type: restaurant <i class="fas fa-seedling"></i>
+type: restaurant <i class="fas fa-utensils"></i> <i class="fas fa-seedling"></i>
 adresse: 3459, rue Ontario Est
 metro: Joliette (ligne verte)
 osm: 5111366525
