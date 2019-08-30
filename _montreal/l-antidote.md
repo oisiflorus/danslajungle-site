@@ -16,9 +16,7 @@ tags:
 
 ## description
 
-Restaurant uniquement végan, l'Antidote propose une carte variée dans une ambiance chaleureuse,
-dans le quartier d'Hochelaga. Côté boissons, laissez vous tenter par un délicieux Kombucha, ou goutez à
-une bière locale.
+Restaurant uniquement végan, l'Antidote propose une carte variée dans une ambiance chaleureuse, dans le quartier d'Hochelaga. Côté boissons, laissez vous tenter par un délicieux Kombucha, ou goutez à une bière locale.
 
 ![L'Antidode](./media/l-antidote.jpg)
 
