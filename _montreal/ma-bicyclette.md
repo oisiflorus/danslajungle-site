@@ -1,7 +1,7 @@
 ---
 nom: Ma bicyclette café
 type: café vélo
-metro: Charlevoix (ligne verte)
+transport: Charlevoix (ligne verte)
 adresse: 2727, rue Saint-Patrick
 osm: 5653967560
 site: https://mybicyclette.ca/fr/

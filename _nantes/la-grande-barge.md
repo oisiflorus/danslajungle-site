@@ -1,7 +1,7 @@
 ---
 nom: La Grande Barge
 type: café, restaurant, épicerie
-metro: 
+transport: 
 adresse: 
 osm: 
 description : >
