@@ -1,8 +1,8 @@
 ---
 nom: La Grande Barge
 type: 
-  - café
   - restaurant
+  - café
   - épicerie
 transport: tramway Vincent Gâche (ligne 2-3)
 adresse: 8, rue Grande Biesse
