@@ -1,7 +1,7 @@
 ---
 nom: La Grande Barge
 type: café, restaurant, épicerie <i class="fas fa-mug-hot"></i> <i class="fas fa-utensils"></i> <i class="fas fa-shopping-basket"></i>
-metro: tramway Vincent Gâche (ligne 2-3)
+transport: tramway Vincent Gâche (ligne 2-3)
 adresse: 8, rue Grande Biesse
 osm: 6088206221
 description : >

@@ -1,7 +1,7 @@
 ---
 nom: L'Editeur Griffintown
 type: café littéraire <i class="fas fa-mug-hot"></i> <i class="fas fa-book"></i>
-metro: Lucien l'Allier (ligne verte)
+transport: Lucien l'Allier (ligne verte)
 adresse: 1372, rue Notre-Dame Ouest
 osm: 2687914622
 description: Café libraire sobre et sympathique, large sélections de boissons chaudes et froides, ambiance calme et mini-bibliothèque bien fournie.
