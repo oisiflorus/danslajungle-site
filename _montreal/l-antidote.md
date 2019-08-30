@@ -1,6 +1,8 @@
 ---
 nom: L'Antidote
-type: restaurant <i class="fas fa-utensils"></i> <i class="fas fa-seedling"></i>
+type:
+    - restaurant
+    - végan
 adresse: 3459, rue Ontario Est
 transport: Joliette (ligne verte)
 osm: 5111366525

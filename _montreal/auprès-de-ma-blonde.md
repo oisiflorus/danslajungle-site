@@ -1,6 +1,8 @@
 ---
 nom: Auprès de ma Blonde
-type: bar-restaurant <i class="fa fa-glass-cheers"></i> <i class="fas fa-utensils"></i>
+type: 
+    - bar
+    - restaurant
 transport: Sherbrooke (ligne orange)
 adresse: 3845, rue Saint-Denis
 osm: 6708072485

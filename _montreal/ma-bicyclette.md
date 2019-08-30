@@ -1,6 +1,8 @@
 ---
 nom: Ma bicyclette café
-type: café vélo <i class="fas fa-mug-hot"></i> <i class="fas fa-bicycle"></i>
+type:
+    - café
+    - vélo
 transport: Charlevoix (ligne verte)
 adresse: 2727, rue Saint-Patrick
 osm: 5653967560
