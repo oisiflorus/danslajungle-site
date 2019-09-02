@@ -1,5 +1,5 @@
 ---
-nom: Les bein aimés
+nom: Les bien aimés
 type: 
   - librairie
   - café
