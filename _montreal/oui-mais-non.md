@@ -2,6 +2,7 @@
 nom: Oui mais Non
 type: 
   - café 
+  - coworking
 transport: Jarry (ligne orange)
 adresse: 72, rue Jarry-Est
 osm: 3219613959
