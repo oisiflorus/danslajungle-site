@@ -1,12 +1,13 @@
 ---
 nom: Oui mais Non
 type: 
-    - café 
+  - café 
 transport: Jarry (ligne orange)
 adresse: 72, rue Jarry-Est
 osm: 3219613959
-description: Le café Oui mais Non propose un large espace convivial, et offre une multitude de services adaptés : 
-location de tables (coworking), traiteur, événements, boutique d'artisans locaux. 
+description: > 
+  Le café Oui mais Non propose un large espace convivial, et offre une multitude de services adaptés : 
+  location de tables (coworking), traiteur, événements, boutique d'artisans locaux. 
 site: http://www.cafeouimaisnon.com/
 par: i-da
 ---
