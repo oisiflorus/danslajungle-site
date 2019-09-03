@@ -4,7 +4,7 @@ type:
   - restaurant
   - café
   - épicerie
-transport: tramway Vincent Gâche (ligne 2-3)
+transport: tramway Vincent Gâche (lignes 2-3), busway Vincent Gâche (ligne 5)
 adresse: 8, rue Grande Biesse
 osm: 6088206221
 description : >
