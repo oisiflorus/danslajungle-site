@@ -15,4 +15,3 @@ par: pointbar
 Des produits made in France de qualité, une grande gamme de bijoux très mignons avec beaucoup d'originalité.
 
 ![La Psyché d'Holly](./media/la-psyche-d-holly.jpg)
-
