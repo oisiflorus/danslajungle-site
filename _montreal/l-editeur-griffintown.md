@@ -2,7 +2,7 @@
 nom: L'Editeur Griffintown
 type: 
     - café 
-    - littérature
+    - librairie
 transport: Lucien l'Allier (ligne verte)
 adresse: 1372, rue Notre-Dame Ouest
 osm: 2687914622
