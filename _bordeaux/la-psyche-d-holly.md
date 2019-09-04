@@ -17,4 +17,3 @@ par: pointbar
 Des produits made in France de qualité, une grande gamme de bijoux très mignons avec beaucoup d'originalité.
 
 ![Le Tchaï](./media/la-psyche-d-holly.jpg)
-
