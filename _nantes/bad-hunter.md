@@ -2,7 +2,7 @@
 nom: Bad Hunter
 type: 
   - restaurant
-  - Végétarien
+  - végétarien
 transport: tramway, Hôtel Dieu (lignes 2-3)
 adresse: 1 allée de la Maison Rouge
 osm: 5679784222
