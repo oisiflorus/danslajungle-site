@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Pourquoi et pour quoi la Jungle ?
 
 La Jungle est le fruit d'une envie commune de travailler sur les questions **environnementales** et **humaines**,

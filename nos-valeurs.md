@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Nos valeurs
 
 - Chez Oisiflorus, nous accordons beaucoup d'importance à ce que toute personne qui nous rejoint ou avec qui l'on interagit se
