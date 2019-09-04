@@ -3,7 +3,7 @@ nom: Le Tchaï
 type: 
   - café
   - association
-transport: 
+transport: tramway Victoire
 adresse: 49, rue du Mirail
 osm: 2519722716
 description : >
