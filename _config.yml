@@ -2,8 +2,7 @@ title: Dans la jungle
 remote_theme: oisiflorus/maquillage-danslajungle
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: location
@@ -12,6 +11,10 @@ collections:
   montreal:
     output: true
   nantes:
+    output: true
+  montpellier:
+    output: true
+  bordeaux:
     output: true
 
 plugins:
