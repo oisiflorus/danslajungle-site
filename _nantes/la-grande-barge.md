@@ -10,7 +10,7 @@ osm: 6088206221
 description : >
   La Grande Barge est un bar, restaurant et épicerie en coopérative. Il s’agit d’un lieu de rencontres et de partage, qui cherche à valoriser un système alimentaire durable. 
 site: https://ledebutdesharicots.fr
-par: pntbr
+par: pointbar
 ---
 
 ## description

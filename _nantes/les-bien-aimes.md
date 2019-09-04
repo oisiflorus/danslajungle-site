@@ -10,7 +10,7 @@ osm: 2289128178
 description : >
   Les Bien-aimés est un lieu convivial autour des livres tournés vers la littérature et des films tournés vers les auteurs internationaux. Un lieu où l’on peut flâner sans rien acheter, acheter sans y flâner, boire un verre et puis c’est tout, manger un petit ou gros morceau.
 site: https://www.les-bien-aimes.fr
-par: pntbr
+par: pointbar
 ---
 
 ## description
