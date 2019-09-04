@@ -7,7 +7,6 @@ adresse: 14, rue Saint James
 osm: 2485585490
 description : >
   Une jolie boutique à quelques pas de La Grosse Cloche. Remplie d’accessoires de mode en tout genre.
-.
 site: http://www.lepsychedholly.fr
 par: pointbar
 ---
