@@ -1,6 +1,6 @@
 # danslajungle-site
 
-Trouver les -lieux prévenant- (friendly places) à Montréal
+Trouver les -lieux prévenants- (friendly places) à Montréal
 
 ## Pour contribuer
 
