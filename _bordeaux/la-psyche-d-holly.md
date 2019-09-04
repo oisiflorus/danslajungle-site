@@ -1,7 +1,6 @@
 ---
 nom: La Psyché d'Holly
-type: 
-  - boutique
+type: boutique
 transport: tramway Sainte-Catherine
 adresse: 14, rue Saint James
 osm: 2485585490
@@ -15,5 +14,5 @@ par: pointbar
 
 Des produits made in France de qualité, une grande gamme de bijoux très mignons avec beaucoup d'originalité.
 
-![Le Tchaï](./media/la-psyche-d-holly.jpg)
+![La Psyché d'Holly](./media/la-psyche-d-holly.jpg)
 
