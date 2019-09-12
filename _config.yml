@@ -16,6 +16,9 @@ collections:
     output: true
   bordeaux:
     output: true
+  lyon:
+    output: true
+  
 
 plugins:
   - jekyll-remote-theme
