@@ -20,6 +20,8 @@ collections:
     output: true
   haute-vallee-herault:
     output: true
+  lyon:
+    output: true
 
 plugins:
   - jekyll-remote-theme
