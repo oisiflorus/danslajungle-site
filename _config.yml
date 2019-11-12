@@ -16,6 +16,10 @@ collections:
     output: true
   bordeaux:
     output: true
+  sete:
+    output: true
+  haute-vallee-herault:
+    output: true
 
 plugins:
   - jekyll-remote-theme
