@@ -9,5 +9,4 @@ sente dans un **état de confiance**.
 
 - Nous prônons les valeurs de **partage**, **communs**, **respect**, **inclusion**, **non-hiérarchie** et **d'impact**.
 
-- Nous sommes vigilant.e.s à instaurer une relation entre les membres du collectif et avec les personnes que nous rencontrons,
-dénuée de toutes **remarques ou comportements discriminatoires et oppressifs**.
+- Nous sommes vigilant.e.s à instaurer une relation entre les membres du collectif et avec les personnes que nous rencontrons, dénuée de toutes **remarques ou comportements discriminatoires et oppressifs**.

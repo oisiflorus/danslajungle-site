@@ -14,5 +14,10 @@ layout: page
 
 ## Qui sommes-nous ?
 
-- [Oisiflorus](/qui-sommes-nous.html)
+- [Oisiflorus](/qui-sommes-nous)
 - [Nos valeurs](/nos-valeurs)
+- [Nous contacter](/nous-contacter)
+
+## Code of Conduct
+
+- [Code of Conduct](/code-of-conduct)
