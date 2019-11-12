@@ -3,7 +3,7 @@ nom: La Cagette
 type: 
   - supermarché
   - association
-transport: Tramway Saint-Denis (Ligne bleue, à fleur,)
+transport: Tramway Saint-Denis (Ligne 3)
 adresse: 19, avenue Georges Clémenceau
 osm: 660189646
 description : >

@@ -3,7 +3,7 @@ nom: La Gazette Café
 type: 
   - café
   - association
-transport: Tramway la Gare
+transport: Tramway Gare (Ligne 1, 2, 3 et 4)
 adresse: 6, rue Levat
 osm: 3506365916
 description : >
@@ -14,6 +14,6 @@ par: pointbar
 
 ## description
 
-On vient au Gazette Café pour prendre un verre, déjeuner ou dîner entre amis, participer à des conférences, des concerts, des dégustations, des expos, ou tout simplement goûter un bon bouquin.
+On vient à la Gazette Café pour prendre un verre, déjeuner ou dîner entre amis, participer à des conférences, des concerts, des dégustations, des expos, ou tout simplement goûter un bon bouquin.
 
 ![la Gazette Café](./media/la-gazette-cafe.jpg)
