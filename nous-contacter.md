@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# Nous contacter
+## Nous contacter
 
-## Par email
+### Par email
 
 Au choix :
 
@@ -12,11 +12,11 @@ Au choix :
 - [Stéphane Langlois](mailto:stephane@scopyleft.fr)
 - [Idrissa M'Boup](mailto:leonmboup@gmail.com)
 
-## Par Twitter
+### Par Twitter
 
 - [@SabineSafi](https://twitter.com/SabineSafi)
 - [@DavidBruant](https://twitter.com/DavidBruant)
 
-## Par Slack
+### Par Slack
 
 Tu peux aussi demander à nous rejoindre pour échanger avec nous : [oisiflorus.slack.com](https://oisiflorus.slack.com)
