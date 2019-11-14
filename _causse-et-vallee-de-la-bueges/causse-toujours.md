@@ -11,7 +11,7 @@ services: wifi, eau gazeuse
 osm: 2219900022
 description : >
   Laurent, Thierry et l'équipe ont construit un tiers lieu aux portes de la vallée de la Buèges. L'accueil est convivial et un soin particulier est accordé pour rester frugal en terme de dépenses énergétiques et limiter les déchets.
-site: https://caussetoujours3438.wixsite.com
+site: https://caussetoujours3438.wixsite.com/caussetoujours
 par: pointbar
 ---
 
