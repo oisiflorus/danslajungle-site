@@ -3,7 +3,6 @@ nom: Lou Regalido
 type: 
   - restaurant
   - concert
-transport: bus scolaire
 adresse: Hameau du Méjanel, 34380 Pégairolles de Buèges
 téléphone: 0 950 314 503
 email: louregalido@gmail.com

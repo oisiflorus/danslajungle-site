@@ -4,14 +4,13 @@ type:
   - café
   - restaurant
   - épicerie
-transport: bus scolaire
 adresse: Place de la Mairie, 34380 Causse de la Selle
 téléphone: 0 780 555 550
 email: caussetoujours34380@gmail.com
 services: wifi, eau gazeuse
 osm: 2219900022
 description : >
-  Laurent, Thierry et l'équipe on construit un tiers lieu aux portes de la vallée de la Buèges. L'accueil est convivial et un soin particulier est accordé pour rester frugal en terme de dépenses énergétiques et limiter les déchets.
+  Laurent, Thierry et l'équipe ont construit un tiers lieu aux portes de la vallée de la Buèges. L'accueil est convivial et un soin particulier est accordé pour rester frugal en terme de dépenses énergétiques et limiter les déchets.
 site: https://caussetoujours3438.wixsite.com
 par: pointbar
 ---

@@ -4,7 +4,6 @@ type:
   - camping
   - restaurant
   - épicerie
-transport: bus scolaire 
 adresse: Route Départementale 108, 34190 Brissac
 téléphone: 0 467 737 018
 email: vignoble@domaine-anglas.com

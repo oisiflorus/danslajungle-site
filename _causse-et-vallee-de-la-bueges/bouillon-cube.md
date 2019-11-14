@@ -1,9 +1,8 @@
 ---
-nom: Bouillon Cube
+nom: Bouillon Cube et Court-Bouillon
 type: 
   - salle de spectacle
   - centre de loisirs
-transport: bus scolaire
 adresse: La Grange, 34380 Causse de la Selle
 téléphone: 0 467 713 542
 email: grange@bouilloncube.fr
