@@ -18,6 +18,6 @@ layout: page
 - [Nos valeurs](/nos-valeurs)
 - [Nous contacter](/nous-contacter)
 
-## Code of Conduct
+## Attentes collectives
 
-- [Code of Conduct](/code-of-conduct)
+- [Attentes collectives](/attentes-collectives)

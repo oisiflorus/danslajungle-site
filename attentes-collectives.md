@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Code of Conduct
+## Attentes collectives
 
 > Ce qui n’est pas grave pour vous l’est peut-être pour les autres.
 
@@ -10,7 +10,7 @@ Dans les lieux que nous vous proposons, nous supposons que les hôtes sont intel
 
 Nous avons donc décidé de proposer des consignes qui permettent de faire en sorte que chacun·e se sente à l’aise.
 
-### Un Code of Conduct, pour quoi faire ?
+### Pour quoi faire ?
 
 Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante principale et des personnes qui n’appartiennent pas à cette culture. Ces personnes sont donc sous-représentées dans le contexte, et naturellement, elles sont plus susceptibles d’être « oppressées » par la communauté principale. Souvent, cette oppression se manifeste par des comportements ou attitudes inapropriées qui sont adoptées sans s’en rendre compte.
 

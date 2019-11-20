@@ -8,7 +8,7 @@ layout: page
 
 - Nous prônons les valeurs de **consentement**, **partage**, **communs**, **respect**, **inclusion**, **non-hiérarchie** et **d'impact**.
 
-- Nous sommes vigilant.e.s à instaurer une relation entre les membres du collectif et avec les personnes que nous rencontrons, dénuée de toutes **remarques ou comportements discriminatoires et oppressifs** (cf. [Code of Conduct](https://danslajungle.oisiflorus.com/code-of-conduct))
+- Nous sommes vigilant.e.s à instaurer une relation entre les membres du collectif et avec les personnes que nous rencontrons, dénuée de toutes **remarques ou comportements discriminatoires et oppressifs** (cf. [Attentes collectives](/attentes-collectives))
 
 - Nous ne vous pisterons pas, nous n'avons pas d'outils de statistique, pas de _coockie_ pour enregistrer des données permettant d'améliorer votre expérience.
 
