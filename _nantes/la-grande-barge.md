@@ -4,6 +4,12 @@ type:
   - restaurant
   - café
   - épicerie
+  - shop
+tags:
+  - scic
+  - bio
+  - végétarien
+  - produits locaux
 transport: tramway Vincent Gâche (lignes 2-3), busway Vincent Gâche (ligne 5)
 adresse: 8, rue Grande Biesse
 osm: 6088206221
@@ -15,8 +21,7 @@ par: pointbar
 
 ## description
 
-Située sur L’Île de Nantes, à deux pas du bord de la Loire, La Grande Barge bénéficie d’une terrasse à l’année sur la rue Grande Biesse.  
-  
-Vous serez accueillis dans une ambiance chaleureuse, grâce à une déco haute en couleurs et qui met le bois à l’honneur. Un accès internet est également à la disposition des visiteurs, ainsi qu’une bibliothèque sur le thème de la cuisine. Différents types d’événements sont organisés des concerts, du théâtre d’impro, des conférences…
+Située sur L’Île de Nantes, à deux pas du bord de la Loire. Vous y trouverez des plats faits maison conçus avec des produits de qualité provenant directement de notre réseau de producteurs locaux et bios, parfois plus lointains mais assurément raisonnés.  
+Vous pouvez retoruver les produits qui auront fait frétillés vos papilles en vente sur place à l'épicerie.
 
 ![La Grande Barge](./media/la-grande-barge.jpg)
