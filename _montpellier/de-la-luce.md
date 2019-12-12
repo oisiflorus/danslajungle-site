@@ -5,7 +5,7 @@ type:
 transport: Tramway Comédie (Ligne 1 et 2)
 adresse: 2, rue Saint Côme
 tél: 0 467 069 075
-osm: 664061223
+osm: 6407757257
 horaires:
   - fermé
   - 11h-19h
