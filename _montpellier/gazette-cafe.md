@@ -1,5 +1,5 @@
 ---
-nom: La Gazette Café
+nom: Gazette Café
 type: 
   - café
   - association
@@ -16,4 +16,4 @@ par: pointbar
 
 On vient à la Gazette Café pour prendre un verre, déjeuner ou dîner entre amis, participer à des conférences, des concerts, des dégustations, des expos, ou tout simplement goûter un bon bouquin.
 
-![la Gazette Café](./media/la-gazette-cafe.jpg)
+![Gazette Café](./media/gazette-cafe.jpg)
