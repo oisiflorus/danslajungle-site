@@ -21,3 +21,7 @@ layout: page
 ## Attentes collectives
 
 - [Attentes collectives](/attentes-collectives)
+
+## Pour contribuer
+
+- [Pour contribuer](/pour-contribuer)

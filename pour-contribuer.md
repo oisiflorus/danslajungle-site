@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Petit guide pour les personnes souhaitant contribuer
 
 Ce "petit" guide est peut-être indigeste. Si tu as envie de contribuer et que tu n'es pas à l'aise, on pourra peut-être t'aider ? Par exemple avec une session en visio-conférence ou en présentiel ou bien répondre à tes questions par mail ou peut-être via un autre canal de communication qui te semblera plus adapté.  
