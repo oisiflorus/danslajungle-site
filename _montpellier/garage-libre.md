@@ -13,6 +13,7 @@ horaires:
   - 9h-12h, 14h00-18h30
   - 9h-12h, 14h00-18h30
   - 9h-12h, 14h00-17h00
+  - fermé
 osm: 1256780284
 description : >
   Un garages associatif, solidaire, participatif ou self garage, au Garage Libre "Le mécanicien c'est vous". Une entreprise familiale créée par Franck et Coralie .
