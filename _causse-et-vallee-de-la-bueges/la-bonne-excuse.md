@@ -21,6 +21,7 @@ osm: 2600711840
 description : >
   Un tiers-lieu sympa situé au milieu de la vallée de la Buèges qui essaye d'utiliser au maximum les produits des maraîchers et éleveurs des environs.
 site: https://labonneexcuse.jimdo.com
+contact: Claire
 par: pointbar
 ---
 
