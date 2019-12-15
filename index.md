@@ -18,10 +18,8 @@ layout: page
 - [Nos valeurs](/nos-valeurs)
 - [Nous contacter](/nous-contacter)
 
-## Attentes collectives
+## Divers
 
 - [Attentes collectives](/attentes-collectives)
-
-## Pour contribuer
-
 - [Pour contribuer](/pour-contribuer)
+- [Liens vers d'autres initiatives](/liens-autres-initiatives)
