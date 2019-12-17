@@ -1,8 +1,8 @@
 ---
 nom: Fiers de Lettres
 type: 
-  - café
   - librairie
+  - café
 transport: Tramway Comédie (Ligne 1 et 2)
 adresse: 1, rue du Bras de Fer
 osm: 6407757501
