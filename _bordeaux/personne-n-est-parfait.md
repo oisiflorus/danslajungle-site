@@ -10,12 +10,12 @@ adresse: 57, rue des Ayres, 33000 Bordeaux
 email: contact@personnenestparfait.com
 tél: 0 981 600 657
 horaires:
-  - 09h00 -18h00
-  - 09h00 -18h00
-  - 09h00 -18h00
-  - 09h00 -18h00
-  - 09h00 -18h00
-  - 11h00 -18h00
+  - 09h00-18h00
+  - 09h00-18h00
+  - 09h00-18h00
+  - 09h00-18h00
+  - 09h00-18h00
+  - 11h00-18h00
   - fermé
 osm: 2485582437
 description : >
