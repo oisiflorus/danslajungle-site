@@ -3,8 +3,8 @@ nom: Thé source de joie
 type: 
   - thé
 adresse: 79, promenade du maréchal Leclerc
-téléphone: 0 673 632 641
-mail: sourcedejoie7@gmail.com
+tél: 0 673 632 641
+email: sourcedejoie7@gmail.com
 osm: 6969592032
 description : >
   Cathy propose au détail et en gros des thés d'exception provenant de Birmanie, de Thaïlande ou du Népal. Thé sombre, noir, rouge, bleu, vert et blanc - il y en a pour toutes les envies. 
