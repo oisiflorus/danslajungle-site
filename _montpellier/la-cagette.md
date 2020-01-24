@@ -7,7 +7,7 @@ transport: Tramway Saint-Denis (Ligne 3)
 adresse: 19, avenue Georges Clémenceau
 osm: 660189646
 description : >
-  Proposer une alternative à la grande distribution accessible à toutes et tous.
+  Propose une alternative à la grande distribution accessible à toutes et à tous
 site: https://lacagette-coop.fr
 par: pointbar
 ---
