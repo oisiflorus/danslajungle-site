@@ -16,7 +16,7 @@ horaires:
   - fermé
 osm: 1256780284
 description : >
-  Un garages associatif, solidaire, participatif ou self garage, au Garage Libre "Le mécanicien c'est vous". Une entreprise familiale créée par Franck et Coralie
+  Un garage associatif, solidaire, participatif et self garage. Au Garage Libre "Le mécanicien c'est vous". Une entreprise familiale créée par Franck et Coralie
 site: https://www.garagelibre-stjeandevedas.com
 contact: Aurélie
 par: pointbar
@@ -24,8 +24,8 @@ par: pointbar
 
 ## description
 
-Le Garage Libre une entreprise familiale créée par Franck et Coralie Bruyere.  
-Il vous permets de réparer vous même votre véhicule en louant les ponts ainsi que l'outillage.  
-Et, sinon le garage propose de réparer le véhicule à moindre coût avec ses mécanicien·ne·s confirmé·e·s et sympathique.  
+Le Garage Libre est une entreprise familiale créée par Franck et Coralie Bruyere.  
+Il vous permet de réparer vous même votre véhicule en louant les ponts ainsi que l'outillage.  
+Le garage propose également de réparer à moindre coût avec des mécanicien·ne·s confirmé·e·s et sympathiques.  
 
 ![le Garage Libre](./media/garage-libre.jpg)
