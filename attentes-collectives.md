@@ -34,7 +34,7 @@ Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante
 
 Avant toute chose, sachez que vous êtes légitime de dire que vous n’êtes pas à l’aise avec ce qui est en train de se passer. Vous serez pris·e au sérieux.
 
-- Vous êtes à l’aise, vous avez de l’énergie : nous vous invitons à signaler son comportement oppressif à la personne concernée et/ou aux responsables du lieux et/ou à [nous contacter](/nous-contacter)
+- Vous êtes à l’aise, vous avez de l’énergie : nous vous invitons à signaler son comportement oppressif à la personne concernée et/ou aux responsables du lieu et/ou à [nous contacter](/nous-contacter)
 - Vous n’êtes pas à l’aise et/ou vous n’avez pas l’énergie :
   - vous pouvez en parler à une personne présente, en qui vous avez confiance
   - ou appelez un·e ami·e de confiance
