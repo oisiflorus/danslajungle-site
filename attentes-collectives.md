@@ -8,7 +8,7 @@ layout: page
 
 Dans les lieux que nous vous proposons, nous supposons que les hôtes sont intelligents et bien intentionnés, et nous ne cherchons pas à leur dire quoi faire. Cependant, il nous paraît important que les échanges puissent se faire dans un environnement dans lequel personne n’a besoin d’être sur ses gardes et qui libère des angoisses liées au regard de l’autre, à son jugement, à sa capacité à se moquer de soi ou de ses erreurs et à exiger des justifications.  
 
-Nous avons donc décidé de proposer des consignes qui permettent de faire en sorte que chacun·e se sente à l’aise.  
+Nous avons donc décidé de proposer des conseils qui permettent de faire en sorte que chacun·e se sente à l’aise.  
   
 Nous ne pouvons pas garantir que les lieux que nous proposons soient "sécurisé". Nous avons eu au moins un échange avec un·e responsable de chaque lieu et la personne semblait adhérer au principe de consentement et aux postures encouragées.
 
@@ -20,7 +20,7 @@ Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante
 
 - L’accueil : Faisons en sorte que les personnes – de tous horizons et identités confondues – soient les bienvenues, qu’elles se sentent accueillies dans un espace ouvert et chaleureux. Cela inclut, mais sans s’y limiter, les membres de toute ethnie, culture, nationalité, couleur, statut d’immigration, classe économique et sociale, niveau d’éducation, sexe, orientation sexuelle, identité sexuelle, âge, taille, situation familiale, croyance politique, religion, capacité mentale et physique.
 
-- La bienveillance et la bientraitance : Rencontrons-nous avec bienveillance, c’est-à-dire la volonté de viser le bien et le bonheur d’autrui, et assurons-nous d’être bien-traitant en s’assurant que notre manière d’agir concrètement va bien dans le sens de la bienveillance.
+- La bienveillance et la bientraitance : Assurons-nous d’être bien-traitant·e en s’assurant que notre manière d’agir va bien dans le sens de la bienveillance.
 
 ### Les comportements que nous voudrions décourager
 
