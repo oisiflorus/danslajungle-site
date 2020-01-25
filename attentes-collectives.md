@@ -6,7 +6,7 @@ layout: page
 
 > Ce qui n’est pas grave pour vous l’est peut-être pour les autres.
 
-Dans les lieux que nous vous proposons, nous supposons que les hôtes sont intelligents et bien intentionnés, et nous ne cherchons pas à leur dire quoi faire. Cependant, il nous paraît important que les échangent puissent se faire dans un environnement dans lequel personne n’a besoin d’être sur ses gardes et qui libère des angoisses liées au regard de l’autre, à son jugement, à sa capacité à se moquer de soi ou de ses erreurs et à exiger des justifications.  
+Dans les lieux que nous vous proposons, nous supposons que les hôtes sont intelligents et bien intentionnés, et nous ne cherchons pas à leur dire quoi faire. Cependant, il nous paraît important que les échanges puissent se faire dans un environnement dans lequel personne n’a besoin d’être sur ses gardes et qui libère des angoisses liées au regard de l’autre, à son jugement, à sa capacité à se moquer de soi ou de ses erreurs et à exiger des justifications.  
 
 Nous avons donc décidé de proposer des consignes qui permettent de faire en sorte que chacun·e se sente à l’aise.  
   
