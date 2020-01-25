@@ -14,6 +14,6 @@ par: pointbar
 
 ## description
 
-Ouvert en 2019, le point de vente public des deux frangin·e·s étaient très attendus. Les glacent sont préparées avec des produits rigoureusement sélectionnés, pour leur goût, leur parfum, leur origine ou leur singularité. Les créations sont puissantes. À déguster face à la mer avec des thés d'exception. L'accueil est chaleureux et les saveurs renversantes.
+Ouvert en 2019, le point de vente public des deux frangin·e·s étaient très attendus. Les glaces sont préparées avec des produits rigoureusement sélectionnés, pour leur goût, leur parfum, leur origine ou leur singularité. Les créations sont puissantes. À déguster face à la mer avec des thés d'exception. L'accueil est chaleureux et les saveurs renversantes.
 
 ![Chez Alphonse et Fils](./media/chez-alphonse-et-fils.jpg)
