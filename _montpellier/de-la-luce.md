@@ -4,6 +4,7 @@ type:
   - boutique
 transport: Tramway Comédie (Ligne 1 et 2)
 adresse: 2, rue Saint Côme
+email: info@delaluce.com
 tél: 0 467 069 075
 osm: 6407757257
 horaires:
