@@ -7,7 +7,7 @@ type:
   - café
 transport: Tramway Beaux-Arts (Ligne 2)
 adresse: 31, rue Proudhon
-email:contact@chic-boheme.com
+email: contact@chic-boheme.com
 tél:  0 467 109 994
 osm: 1601017297
 horaires:
