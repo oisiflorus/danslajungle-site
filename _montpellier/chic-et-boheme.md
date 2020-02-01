@@ -26,7 +26,8 @@ par: pointbar
 
 ## description
 
-Une belle brocante avec un joli choix de meubles et objets et une petite terrasse pour déjeuner l'été. Les plats sont fait maison, la boutique est composée de grande salle dont l'une sert de restaurant.  
+Une belle brocante avec un joli choix de meubles et objets et une petite terrasse pour déjeuner l'été. Les plats sont fait maison, la boutique est composée de grande salle dont l'une sert de restaurant. 
+   
 C'est à la fois calme, surprenant et dépaysant.
 
 ![Chic et Bohème](./media/chic-et-boheme.jpg)
