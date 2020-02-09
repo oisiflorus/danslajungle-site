@@ -6,9 +6,20 @@ type:
 transport: Tramway Saint-Denis (Ligne 3)
 adresse: 19, avenue Georges Clémenceau
 osm: 660189646
+tel: 0 411 802 530
+email: faustine@lacagette-coop.fr
+horaires:
+  - 14h00-21h00
+  - 08h00-21h00
+  - 08h00-21h00
+  - 08h00-21h00
+  - 08h00-21h00
+  - 08h00-14h00
+  - fermé
 description : >
   Propose une alternative à la grande distribution accessible à toutes et à tous
 site: https://lacagette-coop.fr
+contact: Faustine
 par: pointbar
 ---
 
