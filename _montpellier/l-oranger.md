@@ -6,7 +6,7 @@ type:
 transport: Tramway Rondelet (Ligne 2 et 4)
 adresse: 3, rue Ernest Michel
 email: lorangercafeculturel@gmail.com
-tél:  0 685 388 028
+tél: 0 685 388 028
 osm: 6418308850
 horaires:
   - fermé
