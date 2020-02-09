@@ -16,7 +16,6 @@ horaires:
   - fermé
 description : >
     L’Oignon Givré est un restaurant cantine original et symapthique situé en plein coeur de ville. Ielles proposent une formule de qualité à 10€ dans une ambiance conviviale
-    
 site: https://www.facebook.com/pages/LOignon-Givr%C3%A9-Montpellier/172270976192385
 par: pointbar
 ---
