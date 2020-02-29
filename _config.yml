@@ -22,6 +22,8 @@ collections:
     output: true
   lyon:
     output: true
+  angers:
+    output: true
 
 plugins:
   - jekyll-remote-theme
