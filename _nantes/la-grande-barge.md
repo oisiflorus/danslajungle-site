@@ -4,7 +4,6 @@ type:
   - restaurant
   - café
   - épicerie
-  - shop
 tags:
   - scic
   - bio
