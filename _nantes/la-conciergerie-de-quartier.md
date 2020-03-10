@@ -11,7 +11,7 @@ tags:
   - conciergerie
   - tiers-lieu
 transport: tramway Chantier Naval (lignes 1)
-adresse: 24, Mail des chantiers
+adresse: 24, mail des chantiers
 osm: 6330341953
 email: bonjour@laconciergeriedequartier.fr
 contact: Jo

@@ -1,17 +1,17 @@
 ---
 nom: Bloom
 type:
-  - café
+  - salon de thé
   - boutique
 tags:
   - café
   - salon de thé
   - bijou
 transport: tramway Gare Maritime (lignes 1), Bus arrêt Lechat (ligne C1) 
-adresse: 18, Avenue Sainte-Anne
+adresse: 18, avenue Sainte-Anne
 osm: 5582158879
 email: bloomteashop@gmail.com 
-contact: Agathe, Lexy, 
+contact: Agathe, Lexy
 tél: 0 981 645 232
 horaires:
   - fermé
