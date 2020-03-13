@@ -3,7 +3,7 @@ nom: Glaz
 type:
   - restaurant
   - salon de thé
-transport: Bus arrêt Coppernic ou Delorme (ligne C1, C3, 23, 26, 54 et C6)
+transport: tramway Place du cirque (lignes 2) ou Bretagne (lignes 3)
 adresse: 10, rue Cacault
 osm: 1728872328
 email: eostglaz@gmail.com 
