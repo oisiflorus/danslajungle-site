@@ -30,7 +30,7 @@ par: pointbar
 
 Ici les ingrédients sont bios ou fermier, les farines proviennent de préférence de Loire-Atlantique, l'eau est dynamisée et micro-filtrée et tous les emballages sont compostables.  
 
-Les artisan·e·s qui tiennent le lieu sont responsables et passionné·e·s et propose des pains d'exception.
+Les artisan·e·s qui tiennent le lieu sont responsables et passionné·e·s et proposent des pains d'exception.
 
 La Maison propose un _brunch_ le samedi avec un petit lieu réservé aux enfants.
 
