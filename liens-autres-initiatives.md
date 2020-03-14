@@ -6,6 +6,12 @@ layout: page
 
 Cette page liste d'autres initiatives qui proposent des lieux refuges, conseillent des praticien·ne·s non-discriminant·e·s, des lieux de répit et même des lieux de pouvoir
 
+- [https://lacloche.org/le-carillon](https://lacloche.org/le-carillon)
+
+> Un commerçant signale sa solidarité par un label sur sa vitrine ; la personne dans le besoin se sait la bienvenue dans ce commerce ; il y a cet échange de service qui facilite la vie et surtout, il y a cet échange humain qui valorise aussi bien le commerçant que la personne en situation de précarité. 
+> Un citoyen peut également décider de consommer solidaire en pré-payant des produits en attente, à l’image du concept du “café suspendu”. 
+> Ces actions du quotidien changent la donne et participent à changer le regard sur les personnes qui vivent à la rue, et finalement, à rendre la société plus inclusive.
+
 - [https://gynandco.wordpress.com](https://gynandco.wordpress.com)
   
   > Nous sommes un groupe de militantes féministes et nous en avons marre des soignantEs ayant des pratiques sexistes, lesbophobes, transphobes, putophobes, racistes, classistes, validistes, etc. Nous avons donc mis en place Gyn&Co pour mettre à disposition une liste de soignantEs pratiquant des actes gynécologiques avec une approche plutôt féministe (qu’il s’agisse de gynécos, de médecins généralistes ou de sages-femmes)
