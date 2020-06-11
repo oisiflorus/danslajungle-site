@@ -21,5 +21,5 @@ layout: page
 ## Divers
 
 - [Attentes collectives](/attentes-collectives)
-- [Pour contribuer](/pour-contribuer)
+- [Nous rejoindre](/nous-rejoindre)
 - [Liens vers d'autres initiatives](/liens-autres-initiatives)
