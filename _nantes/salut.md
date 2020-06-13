@@ -12,7 +12,7 @@ transport: tramway Vincent Gâche (lignes 2-3), busway Vincent Gâche (ligne 5)
 adresse: 13, bd des Martyrs nantais
 osm: 6660821413
 email: stephane.juguet@wt2i.com 
-contact: Max
+contact: Maxime, Quentin, Ancelin, Ludovic
 tél:  0 240 478 612 
 horaires:
   - 11h00-15h00, fermé
