@@ -1,5 +1,5 @@
 ---
-nom: L’AlternatiBar – Maison des Alternatives
+nom: L’AlternatiBar - Maison des Alternatives
 type: 
   - bar
   - association
@@ -21,4 +21,4 @@ diversifiée, qui fait la part belle à la découverte d’alternatives émancip
 Lieu de débat, de sensibilisation, de circulation des idées, l’AlternatiBar contribue à tisser des liens entre 
 les nombreux acteur.ice.s de la transition écologique et sociale.
 
-![L’AlternatiBar – Maison des Alternatives](./media/alternatibar.jpg)
+![L’AlternatiBar - Maison des Alternatives](./media/alternatibar.jpg)

@@ -2,7 +2,7 @@
 nom: Chez Lanchois
 type: 
   - restaurant
-adresse: Parc Aqua-technique, 9 Rue d'Amsterdam
+adresse: Parc Aqua-technique, 9 rue d'Amsterdam
 téléphone: 0 982 368 776
 mail: chezlanchois@gmail.com
 osm: 6970398563

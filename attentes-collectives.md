@@ -18,7 +18,7 @@ Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante
 
 ### Les postures que nous souhaiterions encouragées
 
-- L’accueil : Faisons en sorte que les personnes – de tous horizons et identités confondues – soient les bienvenues, qu’elles se sentent accueillies dans un espace ouvert et chaleureux. Cela inclut, mais sans s’y limiter, les membres de toute ethnie, culture, nationalité, couleur, statut d’immigration, classe économique et sociale, niveau d’éducation, sexe, orientation sexuelle, identité sexuelle, âge, taille, situation familiale, croyance politique, religion, capacité mentale et physique.
+- L’accueil : Faisons en sorte que les personnes - de tous horizons et identités confondues - soient les bienvenues, qu’elles se sentent accueillies dans un espace ouvert et chaleureux. Cela inclut, mais sans s’y limiter, les membres de toute ethnie, culture, nationalité, couleur, statut d’immigration, classe économique et sociale, niveau d’éducation, sexe, orientation sexuelle, identité sexuelle, âge, taille, situation familiale, croyance politique, religion, capacité mentale et physique.
 
 - La bienveillance et la bientraitance : Assurons-nous d’être bien-traitant·e en s’assurant que notre manière d’agir va bien dans le sens de la bienveillance.
 
@@ -62,4 +62,4 @@ Il s’agit évidemment d’une proposition non exhaustive qui ne tient pas comp
 
 Une fois informé·e·s, nous avons l’intention de faire quelque chose, tout en étant bien conscient·e·s que chaque situation est différente. Nous aspirons en priorité à soutenir les personnes qui ont vécu une situation négative.
   
-Nous agirons en priorité pour le bien-être de la personne qui a vécu une expérience négative, afin qu’elle se sente mieux. Idéalement, nous construirons la réparation avec elle, mais pas obligatoirement – cela dépendra d’elle.
+Nous agirons en priorité pour le bien-être de la personne qui a vécu une expérience négative, afin qu’elle se sente mieux. Idéalement, nous construirons la réparation avec elle, mais pas obligatoirement - cela dépendra d’elle.

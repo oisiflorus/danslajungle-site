@@ -5,7 +5,7 @@ type:
   - salon de thé
   - épicerie
 transport: tramway Pirmil (lignes 2, 3) ou Clos Toreau (busway C8)
-adresse: 16 Boulevard Joliot Curie
+adresse: 16, boulevard Joliot Curie
 osm: 7445022368
 email: chezpesteetchipie@gmail.com 
 responsable: Bruno, Karoline
@@ -13,10 +13,10 @@ tel: 0 616 236 293
 horaires:
     - fermé
     - 10:00-14:30 - 17:00-21:00
-    - 10:00–21:00
+    - 10:00-21:00
     - 10:00-14:30 - 17:00-21:00
-    - 10:00–21:00
-    - 10:00–21:00
+    - 10:00-21:00
+    - 10:00-21:00
     - fermé
 description : >
    Un lieu atypique et unique avec des produits locaux délicieux, une bonne humeur pour vous accueillir, pleins de choses à chiner. Un café boutique aux milles merveilles.
