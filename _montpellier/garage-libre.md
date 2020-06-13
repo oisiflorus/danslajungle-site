@@ -5,7 +5,7 @@ type:
 transport: Tramway Saint-Jean-le-Sec (Ligne 2)
 adresse: Allée des cyprès - 34430 St Jean de Védas
 email: garagelibre-stjeandevedas@hotmail.fr
-tél: 0 467 814 664
+tel: 0 467 814 664
 horaires:
   - 09h-12h, 14h00-18h30
   - 09h-12h, 14h00-18h30
@@ -18,7 +18,7 @@ osm: 1256780284
 description : >
   Un garage associatif, solidaire, participatif et self garage. Au Garage Libre "Le mécanicien c'est vous". Une entreprise familiale créée par Franck et Coralie
 site: https://www.garagelibre-stjeandevedas.com
-contact: Aurélie
+responsable: Aurélie
 par: pointbar
 ---
 

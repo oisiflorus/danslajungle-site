@@ -11,8 +11,8 @@ transport: tramway Hôtel Dieu (lignes 2-3)
 adresse: 22, rue Baron
 osm: 1651714593
 email: nous@le-loo.com
-contact: Maya
-tél: 0 973 523 475
+responsable: Maya
+tel: 0 973 523 475
 horaires:
   - 10h00-15h00
   - 10h00-20h00

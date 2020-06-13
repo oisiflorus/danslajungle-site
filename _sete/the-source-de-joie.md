@@ -3,7 +3,7 @@ nom: Thé source de joie
 type: 
   - thé
 adresse: 79, promenade du maréchal Leclerc
-tél: 0 673 632 641
+tel: 0 673 632 641
 email: sourcedejoie7@gmail.com
 osm: 6969592032
 description : >

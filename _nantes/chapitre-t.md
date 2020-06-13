@@ -9,8 +9,8 @@ transport: Bus arrêt Coppernic ou Delorme (ligne C1, C3, 23, 26, 54 et C6)
 adresse: 1 bis, rue Camille Berruyer
 osm: 6185143601
 email: chapitre.t44@gmail.com 
-contact: Anne
-tél: 0 987 522 851
+responsable: Anne
+tel: 0 987 522 851
 horaires:
   - fermé
   - 8h30-18h30

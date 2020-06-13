@@ -8,8 +8,8 @@ transport: tramway Pirmil (lignes 2, 3) ou Clos Toreau (busway C8)
 adresse: 16 Boulevard Joliot Curie
 osm: 7445022368
 email: chezpesteetchipie@gmail.com 
-contact: Bruno, Karoline
-tél: 0 616 236 293
+responsable: Bruno, Karoline
+tel: 0 616 236 293
 horaires:
     - fermé
     - 10:00-14:30 - 17:00-21:00

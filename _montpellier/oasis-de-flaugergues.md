@@ -6,7 +6,7 @@ type:
 transport: Tramway Odysseum (Ligne 1)
 adresse: 87-69, rue de la Mogère
 email: contact@oasiscitadine.fr
-tél:  0 675 609 034      
+tel:  0 675 609 034      
 osm: 6552190380
 horaires:
   - 08h30-21h30

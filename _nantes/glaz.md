@@ -7,8 +7,8 @@ transport: tramway Place du cirque (lignes 2) ou Bretagne (lignes 3)
 adresse: 10, rue Cacault
 osm: 1728872328
 email: eostglaz@gmail.com 
-contact: Séverine, Aurélie
-tél: 0 228 496 621
+responsable: Séverine, Aurélie
+tel: 0 228 496 621
 horaires:
   - 8h00-18h00
   - 8h00-18h00

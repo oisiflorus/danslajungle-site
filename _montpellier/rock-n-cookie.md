@@ -7,7 +7,7 @@ type:
 transport: Tramway arrêt Louis Blanc (Ligne 1 et 4)
 adresse: 21, bd Pasteur
 email: rockncookie@gmail.com
-tél:  0 670 130 012     
+tel:  0 670 130 012     
 osm: 6407756092
 horaires:
   - 11h00-18h30
@@ -20,7 +20,7 @@ description : >
     Un lieu inclusif au coeur de Montpellier où tout est fait maison avec des produits conventionnels
 site: https://www.facebook.com/RocknCookieMtp
 par: pointbar
-contact: Christine
+responsable: Christine
 ---
 
 ## description

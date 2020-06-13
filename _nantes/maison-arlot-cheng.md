@@ -10,8 +10,8 @@ transport: tramway Chantier Naval (lignes 1)
 adresse: 36, rue la Noue Bras de Fer
 osm: 6355775386
 email: info@maisonarlotcheng.com
-contact: Pierre-Antoine
-tél: 0 767 385 689
+responsable: Pierre-Antoine
+tel: 0 767 385 689
 horaires:
   - fermé
   - 8h00-19h30

@@ -8,7 +8,7 @@ type:
 transport: Tramway A - arrêt Sainte-Catherine
 adresse: 57, rue des Ayres, 33000 Bordeaux
 email: contact@personnenestparfait.com
-tél: 0 981 600 657
+tel: 0 981 600 657
 horaires:
   - 09h00-18h00
   - 09h00-18h00
@@ -22,7 +22,7 @@ description : >
   Les personnes qui vous accueillent à Pn'P adorent ce qu'elles font, elles travaillent avec des artisans enthousiastes qui aiment les produits de qualité
 
 site: http://personnenestparfait.com
-contact: Camille, Cynthia
+responsable: Camille, Cynthia
 par: pointbar
 ---
 

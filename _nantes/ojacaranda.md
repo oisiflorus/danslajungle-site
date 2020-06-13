@@ -10,8 +10,8 @@ transport: Bus arrêt Delorme (ligne C6, 26 et 54)
 adresse: 9, bd Gabriel Guist’hau
 osm: 6344069609
 email: ojacaranda.tc@gmail.com 
-contact: Carole
-tél: 0 251 823 572 
+responsable: Carole
+tel: 0 251 823 572 
 horaires:
   - 14h00-19h00
   - 10h00-19h00

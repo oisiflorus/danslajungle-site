@@ -5,7 +5,7 @@ type:
 transport: Tramway Comédie (Ligne 1 et 2)
 adresse: 2, rue Saint Côme
 email: info@delaluce.com
-tél: 0 467 069 075
+tel: 0 467 069 075
 osm: 6407757257
 horaires:
   - fermé
@@ -18,7 +18,7 @@ horaires:
 description : >
     De la luce est un superbe magasin alliant aussi bien l’art de table aux bijoux que le prêt à porter à la décoration d’intérieure. Un espace en perpétuelle mouvance, sans cesse en quête de renouveau qui propose des produits sélectionnés avec sincérité et amour, au gré des saisons. 
 site: http://www.delaluce.com
-contact: Nadia
+responsable: Nadia
 par: pointbar
 ---
 

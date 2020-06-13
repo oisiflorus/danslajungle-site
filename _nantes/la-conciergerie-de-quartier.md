@@ -14,8 +14,8 @@ transport: tramway Chantier Naval (lignes 1)
 adresse: 24, mail des chantiers
 osm: 6330341953
 email: bonjour@laconciergeriedequartier.fr
-contact: Jo
-tél: 0 285 528 324
+responsable: Jo
+tel: 0 285 528 324
 horaires:
   - fermé
   - 11h00-19h00

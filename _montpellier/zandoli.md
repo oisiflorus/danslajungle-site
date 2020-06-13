@@ -6,7 +6,7 @@ type:
 transport: Tramway arrêt Louis Blanc (Ligne 1 et 4)
 adresse: 36, rue de l'université
 email: salonzandoli@gmail.com
-tél: 0 953 956 014
+tel: 0 953 956 014
 horaires:
   - fermé
   - 11h00-19h30

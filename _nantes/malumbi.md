@@ -8,8 +8,8 @@ transport: tramway Wattignies (lignes 2 et 3), busway Vincent Gâche (ligne 5)
 adresse: 20, rue Petite Biesse
 osm: 6355775386
 email: malumbi44@gmail.com
-contact: Stéphanie
-tél:  0 986 151 474
+responsable: Stéphanie
+tel:  0 986 151 474
 horaires:
   - 11h00-17h30
   - 11h00-17h30

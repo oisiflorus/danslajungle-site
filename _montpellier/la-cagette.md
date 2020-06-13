@@ -19,7 +19,7 @@ horaires:
 description : >
   Propose une alternative à la grande distribution accessible à toutes et à tous
 site: https://lacagette-coop.fr
-contact: Faustine
+responsable: Faustine
 par: pointbar
 ---
 

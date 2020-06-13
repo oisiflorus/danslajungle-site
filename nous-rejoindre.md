@@ -58,11 +58,11 @@ description: <texte descriptif affiché sur la page sommaire>
 adresse: <adresse>
 osm: <noeud openstreetmap.org (pour construire un lien OSM sur l'adresse)>
 email: <courriel pour contacter le lieu>
-tél: <téléphone pour contacter le lieu au format : 0 xxx xxx xxx pour la france métropolitaine>
+tel: <téléphone pour contacter le lieu au format : 0 xxx xxx xxx pour la france métropolitaine>
 site: <site web du lieu>
 services: <cafés suspendus, précarité menstruelle, toilettes accessibles au non-client·e·s>
 transport: <arrêt de tram ou de bus>
-contact: <prénom de la personne que nous avons prévenue et qui pourra accueillir>
+responsable: <prénom de la personne que nous avons prévenue et qui pourra accueillir>
 par: <lea contribut·eur·rice qui a initié la fiche. Il s'agit d'un identifiant github.com>
 tags: <liste d'attributs du lieu>
 ---

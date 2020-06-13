@@ -5,7 +5,7 @@ type:
 transport: Tramway Louis-Blanc (Ligne 1 et 4)
 adresse: 46, rue de l'Université
 osm: 635868921
-tél: 0 467 607 206
+tel: 0 467 607 206
 horaires:
   - 12h00-14h30
   - 12h00-14h30

@@ -11,8 +11,8 @@ transport: tramway Gare Maritime (lignes 1), Bus arrêt Lechat (ligne C1)
 adresse: 18, avenue Sainte-Anne
 osm: 5582158879
 email: bloomteashop@gmail.com 
-contact: Agathe, Lexy
-tél: 0 981 645 232
+responsable: Agathe, Lexy
+tel: 0 981 645 232
 horaires:
   - fermé
   - 12h00-18h00

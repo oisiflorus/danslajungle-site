@@ -6,7 +6,7 @@ type:
 transport: Bus musée Paul Valéry (Ligne 5)
 adresse: 148, rue François Desnoyer
 osm: 1490777093
-tél:  0 467 188 104
+tel:  0 467 188 104
 email: midilahaut@gmail.com
 horaires:
   - fermé
@@ -19,7 +19,7 @@ horaires:
 description : >
     Un endroit calme et authentique, loin du bruit du la ville. Petit havre de paix avec une vue sur le port et sur la mer.  
 site: https://www.facebook.com/pages/category/Restaurant/Midi-l%C3%A0-haut-448873309012687/
-contact: Wlady
+responsable: Wlady
 par: pointbar
 ---
 

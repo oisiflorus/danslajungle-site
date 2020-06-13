@@ -7,7 +7,7 @@ transport: Tramway Comédie (Ligne 1 et 2)
 adresse: 1, rue du Bras de Fer
 osm: 6407757501
 email: contact@fiersdelettres.fr 
-tél: 0 434 815 448
+tel: 0 434 815 448
 horaires:
   - 14h00-19h00
   - 10h00-19h00
@@ -19,7 +19,7 @@ horaires:
 description : >
     Citoyenne et engagée, Fiers de lettres c'est la librairie-café des alternatives durables de Montpellier.
 site: https://www.facebook.com/fiersdelettres
-contact: Chloé, Wissam
+responsable: Chloé, Wissam
 par: pointbar
 ---
 

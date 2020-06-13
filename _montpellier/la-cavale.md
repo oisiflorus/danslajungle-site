@@ -6,7 +6,7 @@ transport: Tramway Beaux-art (Ligne 2)
 adresse: 24, rue de la Cavalerie
 osm: 6154243271
 email: leslibraires@librairielacavale.coop
-tél: 0 467 452 685
+tel: 0 467 452 685
 horaires:
   - fermé
   - 10h00-19h00
@@ -17,7 +17,7 @@ horaires:
   - fermé
 description : >
     La Cavale est une librairie généraliste indépendante. Société Coopérative d’Intérêt Collectif, elle constitue une aventure humaine placée sous le signe de l’Économie Sociale et Solidaire
-contact: 
+responsable: 
 site: https://librairielacavale.coop
 par: pointbar
 ---

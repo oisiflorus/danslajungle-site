@@ -7,8 +7,8 @@ transport: tramway Commerce (ligne 1, 2 et 3)
 adresse: 22, rue de l'Arche Sèche
 osm: 5460210375
 email: pierre@ilovetheine.fr
-contact: Jim
-tél: 0 647 439 242
+responsable: Jim
+tel: 0 647 439 242
 horaires:
   - 14h00-19h00
   - 11h00-19h00

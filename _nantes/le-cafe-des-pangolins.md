@@ -11,8 +11,8 @@ transport: tramway Vincent Gâche (lignes 2-3), bus République (ligne 5)
 adresse: 17, rue de la Tour d'Auvergne
 osm: 1208346265
 email: lecafedespangolins@gmail.com
-contact: mona
-tél: 0 667 013 731
+responsable: mona
+tel: 0 667 013 731
 horaires:
   - fermé
   - 12h00-14h30
