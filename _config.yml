@@ -8,21 +8,25 @@ defaults:
       layout: location
 
 collections:
+  angers:
+    output: true
+  bordeaux:
+    output: true
+  causse-et-vallee-de-la-bueges:
+    output: true
+  lille:
+    output: true
+  lyon:
+    output: true
+  montpellier:
+    output: true
   montreal:
     output: true
   nantes:
     output: true
-  montpellier:
-    output: true
-  bordeaux:
+  presqu-ile-crozon:
     output: true
   sete:
-    output: true
-  causse-et-vallee-de-la-bueges:
-    output: true
-  lyon:
-    output: true
-  angers:
     output: true
 
 plugins:
