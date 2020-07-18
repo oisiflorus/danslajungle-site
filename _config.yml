@@ -28,6 +28,8 @@ collections:
     output: true
   sete:
     output: true
+  vallee-de-la-desges:
+    output: true
 
 plugins:
   - jekyll-remote-theme
