@@ -17,7 +17,7 @@ horaires:
   - fermé
   - fermé
 description : >
-  Un hangar, beaucoup de volonté et les Shitakés peuvent s'épanouir et pousser tranquillement. Marion les récoltes quotidiennement avec soin pour les chefs et les boutiques de la prequ'île.
+  Un hangar, beaucoup de volonté et les Shitakés peuvent s'épanouir et pousser tranquillement. Marion les récoltes quotidiennement avec soin pour les chefs et les boutiques de la presqu'île.
 site: https://www.facebook.com/Champignonsetcompagnie/
 par: pointbar
 ---
@@ -26,6 +26,6 @@ par: pointbar
 
 > C’est dans une petite ferme située à Argol, à l’entrée de la presqu’île de Crozon dans le Finistère, que pousse silencieusement le Shiitaké, un champignon réputé pour ses nombreuses vertus médicinales et gustatives !
 
-Dans la commune d'Argol, Marion cultive des champignons, pour l'instant des Shitakés et d'ici à la fin de l'année des pleurotes. Elle livre les restaurants, les magasins de product·eur·rice·s et propose un "marché" dans son hangar. Derrière la boutique, il y a un espace "privé" pour prendre un verre avec Noah au milieu du potager naturel.
+Marion cultive des champignons, pour l'instant des Shitakés et d'ici à la fin de l'année des pleurotes. Elle livre les restaurants, les magasins de product·eur·rice·s et propose un "marché" dans son hangar. Derrière la boutique, il y a un espace "privé" pour prendre un verre avec Noah au milieu du potager naturel.
 
 ![Champignons et compagnie](./media/champignons-et-compagnie.jpg)

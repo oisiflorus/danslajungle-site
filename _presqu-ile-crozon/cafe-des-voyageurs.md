@@ -18,8 +18,8 @@ horaires:
   - fermé
   - fermé
 description : >
-  Un tiers lieu animé par une équipe sympathique et très active. On peut y boire un verre, laisser jouer les enfants, y voir des spectacles ou consulter la revue éditée par le collectif.
-site: https://cafedesvoyageurs.wordpress.com/
+  Un tiers lieu animé par une équipe sympathique et très active. On peut y boire un verre, laisser jouer les enfants, y voir des spectacles ou consulter la revue [Amzer](https://www.amzer.bzh) éditée par le collectif.
+site: https://cafedesvoyageurs.wordpress.com
 par: pointbar
 ---
 

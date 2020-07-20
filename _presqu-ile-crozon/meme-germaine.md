@@ -3,7 +3,7 @@ nom: Mémé Germaine
   - café
   - crèperie
 adresse: Pointe de Pen-Hir, Plage de Veryac'h, 29570 Camaret-sur-Mer
-osm: 680834097
+osm: 6217203821
 email: 
 tel: 0 298 733 750
 responsable: 
