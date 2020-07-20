@@ -5,7 +5,6 @@ type:
   - restaurant
 adresse: 27, quai du Fret, 29160 Crozon
 osm: 1864919195
-email: 
 tel: 0 221 331 186
 responsable: Elsa
 horaires:
@@ -17,7 +16,7 @@ horaires:
   - 09:30-21:30
   - 09:30-21:30
 description : >
-  Petit restaurant végétarien, les pieds dans l'eau.
+  Petit restaurant, les pieds dans l'eau. Une cuisine originale, bio et végétarienne.
 site: https://www.facebook.com/lefretmagique/
 par: pointbar
 ---
