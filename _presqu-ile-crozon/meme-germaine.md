@@ -1,5 +1,6 @@
 ---
 nom: Mémé Germaine
+type:
   - café
   - crèperie
 adresse: Pointe de Pen-Hir, Plage de Veryac'h, 29570 Camaret-sur-Mer

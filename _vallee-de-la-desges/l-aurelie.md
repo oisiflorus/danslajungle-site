@@ -27,10 +27,6 @@ par: pointbar
 
 Lieu de rencontre situé juste en face de l'Abbaye de Pébrac, le café associatif L'Aurélie propose de la bière artisanale, des tisanes naturelles, des petites assiettes de fromages, tapenade, caviar d'aubergine. L'ambiance est chaleureuse.
 
-Dans un petit renfoncement se niche des publications de la maison d'édition [la lenteur](https://librairie-quilombo.org/La-Lenteur) pour découvrir de nouvelles pensées sur la condition paysanne ou explorer les mal-faits du numérisme.
+Dans un petit renfoncement se niche des publications de la maison d'édition [L'Échappée](https://www.lechappee.org/) pour découvrir de nouvelles pensées sur la condition paysanne ou explorer les mal-faits du numérisme avec l'autre maison d'édition représentée : [la Lenteur](https://librairie-quilombo.org/La-Lenteur).
 
 ![l'Aurélie](./media/l-aurelie.jpg)
-
-
-
-
