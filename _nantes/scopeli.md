@@ -7,7 +7,15 @@ adresse: 20, rue de l’Abbé Grégoire - Rezé
 osm: 1658136584
 description : >
   Une démarche participative pour une alimentation saine accessible à tous et à toutes.
-site: http://www.scopeli.fr
+site: https://www.scopeli.fr
+horaires:
+  - fermé
+  - 9h00-13h00
+  - 9h00-20h00
+  - 9h00-13h00
+  - 9h00-20h00
+  - 9h00-15h00
+  - fermé
 par: pointbar
 ---
 
